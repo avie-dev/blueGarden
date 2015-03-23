@@ -1,0 +1,39 @@
+div.wpcf7 {
+	margin: 0px; padding: 0px;
+}
+div.wpcf7-response-output {
+	margin: 2em 0.5em 1em; padding: 0.2em 1em;
+}
+div.wpcf7-mail-sent-ok {
+	border: 2px solid rgb(57, 143, 20);
+}
+div.wpcf7-mail-sent-ng {
+	border: 2px solid rgb(255, 0, 0);
+}
+div.wpcf7-spam-blocked {
+	border: 2px solid rgb(255, 165, 0);
+}
+div.wpcf7-validation-errors {
+	border: 2px solid rgb(247, 231, 0);
+}
+span.wpcf7-form-control-wrap {
+	position: relative;
+}
+span.wpcf7-not-valid-tip {
+	background: rgb(255, 255, 255); padding: 2px; border: 1px solid rgb(255, 0, 0); left: 20%; top: 20%; width: 280px; font-size: 10pt; position: absolute; z-index: 100;
+}
+span.wpcf7-not-valid-tip-no-ajax {
+	color: rgb(255, 0, 0); font-size: 10pt; display: block;
+}
+span.wpcf7-list-item {
+	margin-left: 0.5em;
+}
+.wpcf7-display-none {
+	display: none;
+}
+div.wpcf7 img.ajax-loader {
+	border: currentColor; margin-left: 4px; vertical-align: middle;
+}
+div.wpcf7 .placeheld {
+	color: rgb(136, 136, 136);
+}

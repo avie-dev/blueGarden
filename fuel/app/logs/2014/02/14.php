@@ -1,0 +1,6 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-14 22:44:52 --> Warning - mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/users/0/lolipop.jp-666522dacac20340/web/bluegarden/blueGarden/fuel/app/classes/controller/admin.php on line 8
+ERROR - 2014-02-14 22:55:33 --> Warning - mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'LAA0399179' (1) in /home/users/0/lolipop.jp-666522dacac20340/web/bluegarden/blueGarden/fuel/app/classes/controller/admin.php on line 8
+ERROR - 2014-02-14 22:57:46 --> 2013 - SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/users/0/lolipop.jp-666522dacac20340/web/bluegarden/blueGarden/fuel/core/classes/database/pdo/connection.php on line 103
+ERROR - 2014-02-14 23:12:28 --> Warning - mysql_set_charset() [<a href='function.mysql-set-charset'>function.mysql-set-charset</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/users/0/lolipop.jp-666522dacac20340/web/bluegarden/blueGarden/fuel/app/classes/controller/reservations.php on line 2

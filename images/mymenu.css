@@ -1,0 +1,33 @@
+#myMenu #a-link {
+	list-style: none; margin: 0px; padding: 0px;
+}
+#myMenu #a-link li {
+	margin: 0px 3px 2px 0px; padding: 0px; width: 130px; height: 130px; float: left; cursor: pointer; background-repeat: no-repeat;
+}
+#myMenu #a-link li:hover {
+	margin-bottom: 0px; border-bottom-color: rgb(53, 129, 255); border-bottom-width: 2px; border-bottom-style: solid;
+}
+#myMenu h4 {
+	margin: 25px auto 5px; padding: 0px 0px 0px 10px; height: 40px; color: rgb(0, 0, 255); line-height: 40px; letter-spacing: 0.2em; font-size: 15px; font-weight: bold; border-left-color: rgb(0, 94, 174); border-left-width: 2px; border-left-style: solid; background-image: url("http://bluegarden-aroma.com/wp-content/uploads/2013/05/h4bg.gif");
+}
+#myMenu h4:first-child {
+	margin-top: 5px;
+}
+#myMenu .clrFix {
+	clear: both;
+}
+#myMenu .okotowari {
+	text-align: right; color: rgb(136, 136, 136); padding-left: 10px; font-size: 12px;
+}
+#myMenu .subtitle {
+	background-position: 3px 50%; padding: 0px 0px 0px 25px; height: 30px; color: rgb(128, 0, 0); line-height: 30px; font-size: 14px; font-weight: bold; border-bottom-color: rgb(107, 198, 255); border-bottom-width: 1px; border-bottom-style: solid; position: relative; background-image: url("http://bluegarden-aroma.com/wp-content/uploads/2013/05/list-blue.png"); background-repeat: no-repeat;
+}
+#myMenu h5 p.money {
+	margin: 0px; padding: 0px; left: 500px; top: 0px; width: 185px; height: 30px; text-align: right; color: rgb(0, 0, 0); line-height: 30px; font-size: 14px; position: absolute;
+}
+#myMenu p.money span {
+	color: rgb(220, 20, 60); font-size: 13px;
+}
+#myMenu .summery {
+	margin: 0px; padding: 15px; color: rgb(136, 136, 136); font-size: 13px; border-bottom-color: rgb(107, 198, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}

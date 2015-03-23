@@ -1,0 +1,636 @@
+html {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+body {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+div {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+span {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+applet {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+object {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+iframe {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h1 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h2 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h3 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h4 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h5 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+h6 {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+p {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+blockquote {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+pre {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+a {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+abbr {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+acronym {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+address {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+big {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+cite {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+code {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+del {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+dfn {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+em {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+font {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+ins {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+kbd {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+q {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+s {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+samp {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+small {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+strike {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+strong {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+sub {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+sup {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+tt {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+var {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+dl {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+dt {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+dd {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+ol {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+ul {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+li {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+fieldset {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+form {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+label {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+legend {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+table {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+caption {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+tbody {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+tfoot {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+thead {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+tr {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+th {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+td {
+	margin: 0px auto; padding: 0px; outline: 0px; border: 0px currentColor; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: baseline;
+}
+:focus {
+	outline: 0px;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+table {
+	border-collapse: separate; border-spacing: 0;
+}
+caption {
+	text-align: left; font-weight: normal;
+}
+th {
+	text-align: left; font-weight: normal;
+}
+td {
+	text-align: left; font-weight: normal;
+}
+blockquote::before {
+	content: "";
+}
+blockquote::after {
+	content: "";
+}
+q::before {
+	content: "";
+}
+q::after {
+	content: "";
+}
+blockquote {
+	quotes: "" "";
+}
+q {
+	quotes: "" "";
+}
+a img {
+	border: 0px currentColor;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+menu {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+body {
+	background-position: 100% 95%; font: 80%/1.5 "ÉqÉâÉMÉmäpÉS Pro W3", "Hiragino Kaku Gothic Pro", "ÉÅÉCÉäÉI", Meiryo, Verdana, "Lucida Sans Unicode", "Lucida Grande", Arial, "ÇlÇr ÇoÉSÉVÉbÉN", sans-serif; color: rgb(37, 37, 37); font-size-adjust: none; font-stretch: normal; background-image: url("http://bluegarden-aroma.com/myimg/bg.jpg"); background-attachment: fixed; background-repeat: no-repeat; -webkit-text-size-adjust: none;
+}
+a {
+	margin: 0px; padding: 0px; outline: 0px; color: rgb(119, 119, 119); font-size: 100%; text-decoration: none; vertical-align: baseline;
+}
+a:hover {
+	color: rgb(153, 153, 153); -webkit-transition: opacity 1s; -moz-transition: opacity 1s; -o-transition: opacity 1s;
+}
+a:active {
+	color: rgb(153, 153, 153); -webkit-transition: opacity 1s; -moz-transition: opacity 1s; -o-transition: opacity 1s;
+}
+nav .panel::after {
+	clear: both; display: table; content: "";
+}
+nav#mainNav::after {
+	clear: both; display: table; content: "";
+}
+.newsTitle::after {
+	clear: both; display: table; content: "";
+}
+.bg::after {
+	clear: both; display: table; content: "";
+}
+.post::after {
+	clear: both; display: table; content: "";
+}
+nav .panel {
+	-ms-zoom: 1;
+}
+nav#mainNav {
+	-ms-zoom: 1;
+}
+.newsTitle {
+	-ms-zoom: 1;
+}
+.bg {
+	-ms-zoom: 1;
+}
+.post {
+	-ms-zoom: 1;
+}
+input[type='text'] {
+	background: rgb(252, 252, 252); padding: 1px 5px; border-radius: 3px; border: 1px solid rgb(212, 212, 215); height: 30px; color: rgb(85, 85, 85); line-height: 30px; font-size: 100%; vertical-align: middle; max-width: 90%; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+textarea {
+	background: rgb(252, 252, 252); padding: 1px 5px; border-radius: 3px; border: 1px solid rgb(212, 212, 215); height: 30px; color: rgb(85, 85, 85); line-height: 30px; font-size: 100%; vertical-align: middle; max-width: 90%; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+textarea {
+	height: auto; line-height: 1.5;
+}
+input[type='submit'] {
+	background: linear-gradient(rgb(42, 88, 139) 0%, rgb(33, 74, 120) 100%); padding: 3px 10px; border-radius: 3px; border: 0px currentColor; color: rgb(255, 255, 255); line-height: 1.5; font-size: 100%; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+input[type='reset'] {
+	background: linear-gradient(rgb(42, 88, 139) 0%, rgb(33, 74, 120) 100%); padding: 3px 10px; border-radius: 3px; border: 0px currentColor; color: rgb(255, 255, 255); line-height: 1.5; font-size: 100%; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+input[type='button'] {
+	background: linear-gradient(rgb(42, 88, 139) 0%, rgb(33, 74, 120) 100%); padding: 3px 10px; border-radius: 3px; border: 0px currentColor; color: rgb(255, 255, 255); line-height: 1.5; font-size: 100%; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+input[type='submit']:hover {
+	background: linear-gradient(rgb(33, 74, 120) 0%, rgb(42, 88, 139) 100%);
+}
+input[type='reset']:hover {
+	background: linear-gradient(rgb(33, 74, 120) 0%, rgb(42, 88, 139) 100%);
+}
+input[type='button']:hover {
+	background: linear-gradient(rgb(33, 74, 120) 0%, rgb(42, 88, 139) 100%);
+}
+*:first-child + html input[type='submit'] {
+	padding: 3px;
+}
+.clr {
+	clear: both;
+}
+#wrapper {
+	margin: 0px auto; padding: 0px 10px; width: 980px;
+}
+.inner {
+	margin: 0px auto; padding: 0px 10px; width: 980px;
+}
+#header {
+	background: url("http://bluegarden-aroma.com/myimg/header-bg2.jpg") rgb(255, 255, 255); height: 150px;
+}
+#content {
+	padding: 30px 0px; width: 710px; float: left;
+}
+#sidebar {
+	padding: 30px 0px; width: 225px; float: right;
+}
+#footer {
+	background: rgb(239, 239, 239); padding-top: 20px; clear: both; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#header .bg {
+	background: rgb(0, 0, 0);
+}
+#header h1 {
+	background: rgb(0, 0, 0); padding: 3px 0px; color: rgb(255, 255, 255); font-size: 80%; font-weight: normal; float: left;
+}
+#header p {
+	background: rgb(0, 0, 0); padding: 3px 0px; color: rgb(255, 255, 255); font-size: 80%; font-weight: normal; float: left;
+}
+#header p {
+	float: right;
+}
+#header h2 {
+	padding: 5px 0px; color: rgb(81, 81, 81); clear: both; font-size: 160%; font-weight: bold; float: left;
+}
+#header #toiawase {
+	width: 300px; height: 90px; margin-top: 20px; float: right;
+}
+#toiawase h3 {
+	margin: 5px; width: 250px; height: 40px; background-image: url("http://bluegarden-aroma.com/wp-content/uploads/2013/05/tel.png");
+}
+#toiawase #summery {
+	margin-left: 5px;
+}
+#toiawase #summery a {
+	color: rgb(0, 94, 174); text-decoration: underline;
+}
+#header ul li {
+	font-size: 90%; margin-left: 10px; display: inline;
+}
+#header ul li a {
+	background: url("images/arrowSub.png") no-repeat 0px 50%; color: rgb(0, 0, 0); padding-left: 10px;
+}
+#header ul li a:hover {
+	background-position: 3px 50%;
+}
+nav#mainNav {
+	background: rgb(0, 94, 174); clear: both; position: relative; z-index: 200;
+}
+nav#mainNav ul li {
+	border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid; float: left; position: relative;
+}
+nav#mainNav ul li:first-child {
+	border-left-color: rgb(255, 255, 255); border-left-width: 1px; border-left-style: solid;
+}
+nav#mainNav ul li a {
+	padding: 15px 40px 5px; height: 40px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; display: block; _float: left;
+}
+nav#mainNav ul li a span {
+	line-height: 1.4; font-size: 98%; font-weight: bold; display: block;
+}
+nav#mainNav ul li a strong {
+	line-height: 1.4; font-size: 98%; font-weight: bold; display: block;
+}
+nav#mainNav ul li a span {
+	color: rgb(204, 204, 204); font-size: 70%;
+}
+nav#mainNav ul li.current-menu-item a {
+	background: rgb(107, 198, 255); color: rgb(255, 255, 255);
+}
+nav#mainNav ul li a:hover {
+	background: rgb(107, 198, 255); color: rgb(255, 255, 255);
+}
+nav#mainNav ul li a:active {
+	background: rgb(107, 198, 255); color: rgb(255, 255, 255);
+}
+nav#mainNav ul li.current-menu-parent a {
+	background: rgb(107, 198, 255); color: rgb(255, 255, 255);
+}
+nav#mainNav ul ul {
+	width: 160px;
+}
+nav#mainNav ul li ul {
+	display: none;
+}
+nav#mainNav ul li:hover ul {
+	left: -2px; top: 60px; display: block; position: absolute; z-index: 500;
+}
+nav#mainNav ul li li {
+	background: rgb(49, 147, 174); border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(255, 255, 255); margin: 0px; padding: 0px 0px 0px 10px; width: 160px; height: 40px; line-height: 40px; float: none;
+}
+nav#mainNav ul li li:first-child {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+nav#mainNav ul li li a {
+	padding: 0px; width: 100%; height: 40px; text-align: left; color: rgb(255, 255, 255); line-height: 40px; font-size: 95%;
+}
+nav#mainNav ul li li a span {
+	padding: 0px 10px;
+}
+nav#mainNav ul li li a:hover {
+	color: rgb(107, 198, 255);
+}
+nav#mainNav ul li li.current-menu-item a {
+	color: rgb(107, 198, 255);
+}
+nav#mainNav ul li:hover ul li:last-child {
+	border: 0px currentColor;
+}
+#mainImg {
+	margin: 0px auto; text-align: center; line-height: 0; clear: both; z-index: 0;
+}
+#slider {
+	margin: 0px auto; width: 960px; height: 350px; position: relative; box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3); -moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+}
+.post {
+	background: rgb(255, 255, 255); margin: 0px 0px 20px; padding: 10px; border: 1px solid rgb(218, 218, 218); font-size: 15px; box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3); -moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+}
+h2.title {
+	background: url("images/border.png") repeat-x 0px 100% rgb(255, 255, 255); border-width: 1px 1px 0px; border-style: solid solid none; border-color: rgb(218, 218, 218) rgb(218, 218, 218) currentColor; margin: 30px 0px 0px; padding: 7px 10px; clear: both; font-size: 110%;
+}
+h2.first {
+	margin-top: 0px;
+}
+.dateLabel {
+	font: italic 1em/normal "Palatino Linotype", "Book Antiqua", Palatino, serif; margin: 0px; text-align: right; font-size-adjust: none; font-stretch: normal;
+}
+.post p {
+	padding-bottom: 15px;
+}
+.post ul {
+	margin: 0px 0px 10px 10px;
+}
+.post ul li {
+	background: url("images/bullet.png") no-repeat 0px 8px; padding-left: 15px; margin-bottom: 5px;
+}
+.post ol {
+	margin: 0px 0px 10px 30px;
+}
+.post ol li {
+	list-style: decimal;
+}
+.post h1 {
+	margin: 20px 0px; padding: 5px 0px; color: rgb(0, 0, 0); font-size: 150%; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 3px; border-bottom-style: solid;
+}
+.post h2 {
+	margin: 10px 0px; color: rgb(51, 51, 51); padding-bottom: 2px; font-size: 130%; font-weight: normal; border-bottom-color: rgb(81, 81, 81); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.post h3 {
+	margin: 10px 0px; color: rgb(33, 74, 120); font-size: 120%; font-weight: normal; border-bottom-color: rgb(81, 81, 81); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.post blockquote {
+	margin: 10px 0px 25px 30px; padding: 10px 0px 10px 15px; clear: both; border-left-color: rgb(204, 204, 204); border-left-width: 5px; border-left-style: solid;
+}
+.post blockquote p {
+	padding: 5px 0px;
+}
+.post table {
+	margin: 10px 0px 20px; border: 1px solid rgb(33, 74, 120); border-collapse: collapse; border-spacing: 0;
+}
+.post table th {
+	background: rgb(33, 74, 120); border-width: 0px 0px 1px 1px; border-style: solid; border-color: rgb(33, 74, 120); padding: 7px 10px 7px 5px; color: rgb(255, 255, 255); font-weight: bold;
+}
+.post table td {
+	background: rgb(255, 255, 255); border-width: 0px 0px 1px 1px; border-style: solid; border-color: rgb(33, 74, 120); padding: 7px 5px;
+}
+.post dt {
+	font-weight: bold;
+}
+.post dd {
+	padding-bottom: 10px;
+}
+.post img {
+	height: auto; max-width: 100%;
+}
+img.aligncenter {
+	margin: 5px auto; display: block;
+}
+img.alignright {
+	margin: 0px 0px 2px 7px; padding: 4px; display: inline;
+}
+img.alignleft {
+	margin: 0px 0px 2px 7px; padding: 4px; display: inline;
+}
+img.alignleft {
+	margin: 0px 7px 2px 0px;
+}
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left;
+}
+section.widget {
+	background: rgb(255, 255, 255); margin: 0px 0px 20px; padding: 10px 7px; border: 1px solid rgb(218, 218, 218); box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3); -moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+}
+.widgetInfo {
+	background: rgb(255, 255, 255); margin: 0px 0px 20px; padding: 10px 7px; border: 1px solid rgb(218, 218, 218); box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3); -moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+}
+#banners img {
+	height: auto; padding-bottom: 10px; max-width: 225px;
+}
+section.widget h3 {
+	margin: 0px 0px 10px; padding: 5px 0px 5px 8px; color: rgb(51, 51, 51); clear: both; font-size: 100%; font-weight: bold; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+section.widget a {
+	background: url("images/arrow.png") no-repeat 0px 50%; padding: 3px 0px 3px 13px; text-decoration: underline; display: block;
+}
+section.widget a:hover {
+	background-position: 3px 50%; text-decoration: none;
+}
+#searchform input[type='text'] {
+	width: 100px; height: 24px; line-height: 1.7; vertical-align: bottom;
+}
+.newsTitle {
+	margin: 0px 0px 20px; padding: 5px 0px; color: rgb(51, 51, 51); clear: both; font-size: 100%; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.newsTitle h3 {
+	font-weight: bold; float: left;
+}
+.newsTitle p {
+	background: url("images/arrow.png") no-repeat 0px 50%; padding: 0px 0px 0px 10px; font-size: 0.8em; float: right;
+}
+.news p {
+	padding: 0px 0px 2px; clear: both; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.news p:last-child {
+	border: 0px currentColor;
+}
+.news p a {
+	font: italic 110%/normal "Palatino Linotype", "Book Antiqua", Palatino, serif; padding: 5px 0px; color: rgb(51, 51, 51); display: block; font-size-adjust: none; font-stretch: normal;
+}
+.news a span {
+	font: 90%/normal Arial, "ÉqÉâÉMÉmäpÉS Pro W3", "Hiragino Kaku Gothic Pro", "ÇlÇr ÇoÉSÉVÉbÉN", sans-serif; color: rgb(81, 81, 81); font-size-adjust: none; font-stretch: normal;
+}
+.news span {
+	padding-left: 10px;
+}
+.news a:hover span {
+	color: rgb(119, 119, 119);
+}
+.timely {
+	background-position: 0px 50%; padding-left: 35px; background-image: url("http://bluegarden-aroma.com/wp-content/uploads/2013/05/new.png"); background-repeat: no-repeat;
+}
+#footer ul {
+	padding-bottom: 10px;
+}
+#footer ul li {
+	background: url("images/arrow.png") no-repeat 0px 12px; padding: 5px 0px; text-align: left; margin-right: 60px; vertical-align: text-top; display: inline-block;
+}
+#footer ul li a {
+	padding: 0px 0px 0px 12px; overflow: hidden; display: block;
+}
+#footer ul li a:hover {
+	text-decoration: underline;
+}
+#footer ul li li {
+	background-position: 0px 5px; margin: 0px 0px 0px 10px; padding: 0px; display: block;
+}
+*:first-child + html #footer ul li {
+	display: inline;
+}
+*:first-child + html #footer ul ul {
+	display: none;
+}
+*:first-child + html #footer ul li li a {
+	display: none;
+}
+*:first-child + html #footer ul li li {
+	display: none;
+}
+#copyright {
+	background: rgb(0, 94, 174); padding: 10px; text-align: center; color: rgb(255, 255, 255); clear: both; font-size: 75%; -ms-zoom: 1;
+}
+.pagenav {
+	margin: 5px 0px 20px; width: 100%; height: 30px; clear: both;
+}
+.prev {
+	float: left;
+}
+.next {
+	float: right;
+}
+#pageLinks {
+	text-align: center; color: rgb(42, 88, 139); clear: both;
+}
+.thumbWrap {
+	margin: 20px -25px 20px 0px; width: 710px;
+}
+.thumbWrap li {
+	margin: 5px 19px 0px 0px; padding: 2px 0px 20px; width: 210px; float: left;
+}
+ul.thumb {
+	background: rgb(255, 255, 255); padding: 10px; border: 1px solid rgb(218, 218, 218); width: 688px; box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); -webkit-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3); -moz-box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+}
+ul.thumb h3 {
+	background: rgb(255, 255, 255); padding: 1px; border: 1px solid rgb(119, 119, 119); text-align: center; font-size: 100%; font-weight: normal; margin-top: 10px;
+}
+ul.thumb h3 span {
+	background: rgb(57, 162, 191); padding: 2px 3px; display: block;
+}
+ul.thumb h3 a {
+	color: rgb(255, 255, 255);
+}
+ul.thumb h3:hover span {
+	background: rgb(175, 224, 238); color: rgb(0, 0, 0);
+}
